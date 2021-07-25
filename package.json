@@ -1,0 +1,24 @@
+{
+  "name": "liamluo517.github.io",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/LiamLuo517/frontendblog.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiamLuo517/liamluo517.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiamLuo517/liamluo517.github.io/issues"
+  },
+  "homepage": "https://github.com/LiamLuo517/liamluo517.github.io#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1"
+  }
+}
